@@ -1,3 +1,5 @@
 python-binance==1.0.28
+python-telegram-bot
+
 
 
