@@ -1,0 +1,29 @@
+# Ignorar arquivos de credenciais
+secrets.py
+
+# Ignorar arquivos do ambiente virtual
+venv/
+.env
+
+# Ignorar cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar logs e arquivos temporários
+*.log
+*.tmp
+
+# Ignorar configurações do VSCode e PyCharm
+.vscode/
+.idea/
+
+# Ignorar dependências geradas
+dist/
+build/
+*.egg-info/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
